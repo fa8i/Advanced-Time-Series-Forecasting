@@ -71,6 +71,7 @@ For more information or references, you can contact me at:
 - fabianmp_98@hotmail.com
 - github.com/fa8i
 
+_______________________________________________________________________________________________________
 
 # Spanish:
 # SSTT Predicción de Futuro con variables regresoras pasadas
