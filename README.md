@@ -47,7 +47,7 @@ To use this notebook:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo
+    cd Advanced-Time-Series-Forecasting
     ```
 3. Open the notebook:
     ```bash
@@ -123,7 +123,7 @@ Para utilizar este notebook:
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd tu-repositorio
+    cd Advanced-Time-Series-Forecasting
     ```
 3. Abre el notebook:
     ```bash
