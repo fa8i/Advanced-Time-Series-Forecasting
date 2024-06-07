@@ -2,6 +2,14 @@
 
 This project is a knowledge test on time series applied to pollution analysis. The objective is to use machine learning techniques, specifically recurrent neural networks. For this particular case, the use of an MLP has been adapted instead of a common LSTM, to predict and analyze pollution data over time. This methodology is applicable to financial sectors, climatology, price prediction...
 
+This exercise has been carried out with a series of restrictions on the dataset:
+
+1. The dataset must not be financial
+2. The dataset is multivariate
+3. The dependent variable will not have seasonality, but the regressors may have it
+4. The prediction will be made without providing exogenous regressors at any point in the "future"
+5. 100 future time instances will be predicted.
+
 ## Notebook Contents
 
 The notebook contains the following sections:
@@ -68,6 +76,14 @@ For more information or references, you can contact me at:
 # SSTT Predicción de Futuro con variables regresoras pasadas
 
 Este proyecto es una prueba de conocimiento sobre series temporales aplicada al análisis de la contaminación. El objetivo es utilizar técnicas de aprendizaje automático, específicamente redes neuronales recurrenntrs. Para este caso en concreto se ha adaptado el uso de una MLP en lugar de usar un LSTM común, para predecir y analizar datos de contaminación a lo largo del tiempo. Esta metodología es aplicable a sectores tanto financieros, climatológigos, predicción de precios...
+
+Este ejercicio se ha realizado con una serie de restricciones sobre el dataset:
+
+1. El conjunto de datos no debe ser financiero
+2. El conjunto de datos es **multivariante**
+3. La variable dependiente **no tendra estacionalidad**, pero los regresores sí pueden tenerla.
+4. La predicción se realizará **sin proporcionar regresores exógenos** en ningún punto del "futuro"
+5. Se predecirán 100 instantes de tiempo futuro.
 
 ## Contenido del Notebook
 
