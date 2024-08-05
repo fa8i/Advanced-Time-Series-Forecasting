@@ -60,10 +60,6 @@ To use this notebook:
 
 Contributions are welcome. Please open an issue or submit a pull request to improve this project.
 
-## License
-
-This project is licensed under the MIT License. For more details, see the LICENSE file.
-
 ## Contact
 
 For more information or references, you can contact me at:
@@ -135,10 +131,6 @@ Para utilizar este notebook:
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para mejorar este proyecto.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
 ## Contacto
 
